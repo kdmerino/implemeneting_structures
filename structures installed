@@ -1,0 +1,4 @@
+This file contains the node for a doubly linked list, and the interface for a double linked list class.
+The next implementation of this project is the tree and variations of the flavours. 
+The continuation of this project is a multiple link linked list, with attachable links through dynamic pointers. This structure
+should naturally extend itself to variation of trees and multiple planar graphs.
